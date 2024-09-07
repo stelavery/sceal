@@ -1,0 +1,6 @@
+.env
+__pycache__/
+venv/
+.vscode/
+check_db_connection.py
+notes.txt
